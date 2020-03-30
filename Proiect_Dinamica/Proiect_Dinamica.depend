@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1585580287 source:d:\proiect_dinamica\src\linkedlist.cpp
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+
+1585580268 d:\proiect_dinamica\include\linkedlist.h
+	"Node.h"
+	<iostream>
+
+1585580222 d:\proiect_dinamica\include\node.h
+
+1585580337 source:d:\proiect_dinamica\src\miltimedinamica.cpp
+	"MiltimeDinamica.h"
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+	<set>
+	<unordered_set>
+	<vector>
+	<fstream>
+
+1585580305 d:\proiect_dinamica\include\miltimedinamica.h
+	"LinkedList.h"
+	"Node.h"
+	<iostream>
+
+1585580240 source:d:\proiect_dinamica\src\node.cpp
+	"Node.h"
+
